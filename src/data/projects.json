@@ -1,0 +1,42 @@
+[
+  {
+    "title": "SmartTech",
+    "imageSrc": "projects/project1.png",
+    "description": "sebuah landing page website yang dibuat untuk program pelatihan coding serta detail pelatihannya.",
+    "skills": ["Html", "Css", "JavaScript"],
+    "demo": "https://sabillaagrn.github.io/SmartTech-Project-Magang/",
+    "source": "https://github.com/Sabillaagrn/SmartTech-Project-Magang"
+  },
+  {
+    "title": "CineCampus",
+    "imageSrc": "projects/project2.png",
+    "description": "sebuah website menonton film online dirancang untuk mahasiswa yang di dalamnya terdapat forum discussion.",
+    "skills": ["PHP", "Tailwind css"],
+    "demo": "https://cinecampus.my.id/",
+    "source": "https://github.com/Sabillaagrn/CineCampus-FIX-main.git"
+  },
+  {
+    "title": "SOCA",
+    "imageSrc": "projects/project3.png",
+    "description": "Sebuah aplikasi untuk mendeteksi objek disekitar untuk mempermudah mobilitas tunanetra.",
+    "skills": ["YOLOv8", "Java", "Android Studio"],
+    "demo": "/",
+    "source": "https://github.com/Sabillaagrn/SOCA.git"
+  },
+  {
+    "title": "Travel App",
+    "imageSrc": "projects/project4.png",
+    "description": "Sebuah aplikasi travel yang berisi beberapa detinasi serta detail destinasinya (price, history,dll).",
+    "skills": [ "Kotlin", "Jetpack Compose", "Android Studio"],
+    "demo": "/",
+    "source": "https://github.com/Sabillaagrn/travel_App.git"
+  },
+  {
+    "title": "Muslimah Collection",
+    "imageSrc": "projects/project5.png",
+    "description": "Sebuah Website Toko Online Landing Page untuk mempermudah user membeli hijab di toko muslimah collection. ",
+    "skills": ["Html", "css", "JavaScript"],
+    "demo": "https://sabillaagrn.github.io/Muslimah-Collection-Store/",
+    "source": "https://github.com/Sabillaagrn/Muslimah-Collection-Store.git"
+  }
+]

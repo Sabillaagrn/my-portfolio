@@ -1,0 +1,37 @@
+[
+  {
+    "role": "Student of React JS",
+    "organisation": "Lumoshive Academy",
+    "startDate": "Sept, 2024",
+    "endDate": "Des, 2024",
+    "experiences": [
+      "Mempelajari Dasar React JS (JSX, Component, Sate, dan Props",
+      "Project Akhir: Membangun aplikasi web sederhana sebagai implementasi React JS."
+    ],
+    "imageSrc": "history/lumosive.png"
+  },
+  {
+    "role": "Web Developer",
+    "organisation": "LuarSekolah",
+    "startDate": "Aug, 2024",
+    "endDate": "Sep, 2024",
+    "experiences": [
+      "Pengembangan Front-end: memmbangun antarmuka (UI) menggunakan HTML, CSS, dan JavaScript.",
+      "Integrasi API: Mengintegrasikan layanan eksternal ke website",
+      "Kolaborasi Team, mengembangkan UI, Front-rnd, hingga Back-end"
+    ],
+    "imageSrc": "history/luarsekolah.png"
+  },
+  {
+    "role": "Student bootcamp front-end ",
+    "organisation": "Dicoding",
+    "startDate": "feb, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": [
+      "literasi modul pembelajaran dicoding",
+      "quiz serta pelatihan dasar dasar membuat website",
+      "Membuat website landingpage sederhana"
+    ],
+    "imageSrc": "history/dicoding.png"
+  }
+]
