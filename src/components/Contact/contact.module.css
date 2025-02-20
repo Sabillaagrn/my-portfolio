@@ -10,17 +10,21 @@
   align-items: center;
   width: 100%;
   padding: 2vw 8%;
-  gap: 250px;
+  gap: 5vw;
   text-align: center;
 }
 
+.text {
+  max-width: 800px;
+}
+
 .text h2 {
-  font-size: clamp(40px, 4vw, 80px);
+  font-size: clamp(32px, 4vw, 72px);
   letter-spacing: 2px;
 }
 
 .text p {
-  font-size: clamp(20px, 2vw, 40px);
+  font-size: clamp(16px, 2vw, 32px);
   font-weight: 400;
   letter-spacing: 1px;
 }
@@ -36,13 +40,13 @@
 .link {
   display: flex;
   align-items: center;
-  gap: 15px;
+  gap: 10px;
 }
 
 .link a {
   color: var(--color-text);
   text-decoration: none;
-  font-size: clamp(15px, 1.5vw, 30px);
+  font-size: clamp(14px, 1.5vw, 28px);
   font-weight: 400;
   letter-spacing: 1px;
 }
@@ -50,28 +54,51 @@
 @media screen and (max-width: 1024px) {
   .container {
     flex-direction: column;
-    padding: 8vw 5%;
+    padding: 6vw 5%;
+    gap: 3vw;
   }
 
   .text {
-    align-items: center;
-  }
-
-  .links {
-    align-items: center;
+    text-align: center;
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
+  .container {
+    padding: 8vw 5%;
+  }
+
+  .text h2 {
+    font-size: clamp(28px, 5vw, 64px);
+  }
+
+  .text p {
+    font-size: clamp(14px, 2vw, 28px);
+  }
+
+  .link {
+    gap: 8px;
+  }
+}
+
+@media screen and (max-width: 480px) {
   .container {
     padding: 10vw 5%;
   }
 
+  .text h2 {
+    font-size: clamp(24px, 6vw, 48px);
+  }
+
+  .text p {
+    font-size: clamp(12px, 3vw, 24px);
+  }
+
   .link {
-    gap: 10px;
+    gap: 6px;
   }
 
   .link a {
-    font-size: 5vw;
+    font-size: clamp(12px, 4vw, 20px);
   }
 }
