@@ -10,4 +10,5 @@ export default defineConfig({
     },
   },
   assetsInclude: ["**/*.png", "**/*.jpg", "**/*.svg"],
+  base: "/my-portfolio/",
 });
