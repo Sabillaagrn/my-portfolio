@@ -16,6 +16,10 @@
     "imageSrc": "skills/PHP.png"
   },
   {
+    "title": "Laravel",
+    "imageSrc": "skills/laravel.png"
+  },
+  {
     "title": "Android Studio",
     "imageSrc": "skills/android.png"
   },

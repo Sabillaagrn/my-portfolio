@@ -2,7 +2,7 @@
   {
     "title": "SmartTech",
     "imageSrc": "projects/project1.png",
-    "description": "sebuah landing page website yang dibuat untuk program pelatihan coding serta detail pelatihannya.",
+    "description": "A landing page website created for a coding training program along with its training details.",
     "skills": ["Html", "Css", "JavaScript"],
     "demo": "https://sabillaagrn.github.io/SmartTech-Project-Magang/",
     "source": "https://github.com/Sabillaagrn/SmartTech-Project-Magang"
@@ -10,7 +10,7 @@
   {
     "title": "CineCampus",
     "imageSrc": "projects/project2.png",
-    "description": "sebuah website menonton film online dirancang untuk mahasiswa yang di dalamnya terdapat forum discussion.",
+    "description": "An online movie streaming website designed for university students, featuring a discussion forum.",
     "skills": ["PHP", "Tailwind css"],
     "demo": "https://cinecampus.my.id/",
     "source": "https://github.com/Sabillaagrn/CineCampus-FIX-main.git"
@@ -18,7 +18,7 @@
   {
     "title": "SOCA",
     "imageSrc": "projects/project3.png",
-    "description": "Sebuah aplikasi untuk mendeteksi objek disekitar untuk mempermudah mobilitas tunanetra.",
+    "description": "An application for detecting nearby objects to assist the mobility of visually impaired individuals.",
     "skills": ["YOLOv8", "Java", "Android Studio"],
     "demo": "/",
     "source": "https://github.com/Sabillaagrn/SOCA.git"
@@ -26,7 +26,7 @@
   {
     "title": "Travel App",
     "imageSrc": "projects/project4.png",
-    "description": "Sebuah aplikasi travel yang berisi beberapa detinasi serta detail destinasinya (price, history,dll).",
+    "description": "A travel application featuring various destinations along with their details (price, history, etc.).",
     "skills": [ "Kotlin", "Jetpack Compose", "Android Studio"],
     "demo": "/",
     "source": "https://github.com/Sabillaagrn/travel_App.git"
@@ -34,7 +34,7 @@
   {
     "title": "Muslimah Collection",
     "imageSrc": "projects/project5.png",
-    "description": "Sebuah Website Toko Online Landing Page untuk mempermudah user membeli hijab di toko muslimah collection. ",
+    "description": "An online store landing page website designed to make it easier for users to purchase hijabs from Muslimah Collection",
     "skills": ["Html", "css", "JavaScript"],
     "demo": "https://sabillaagrn.github.io/Muslimah-Collection-Store/",
     "source": "https://github.com/Sabillaagrn/Muslimah-Collection-Store.git"

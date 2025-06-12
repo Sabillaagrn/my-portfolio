@@ -18,16 +18,19 @@
 
 .content {
   display: flex;
-  flex-direction: row;
-  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  gap: 40px;
   margin-top: 14px;
 }
 
 .skills {
-  width: 45%;
+  width: 100%;
+  max-width: 800px;
   display: flex;
   flex-wrap: wrap;
-  gap: 37px;
+  justify-content: center;
+  gap: 40px;
 }
 
 .skill {
@@ -52,16 +55,18 @@
 }
 
 .skill p {
-  font-size: 20px;
+  font-size: 15px;
   font-family: var(--font-roboto);
   font-weight: 500;
 }
 
 .history {
-  width: 45%;
-  display: flex;
-  flex-direction: column;
-  gap: 40px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 100px;
+  margin-bottom: 80px;
+  justify-items: center;
 }
 
 .historyItem {

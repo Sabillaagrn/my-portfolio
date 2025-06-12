@@ -1,12 +1,25 @@
 [
   {
+    "role": "Event Team",
+    "organisation": "GDG Bandung",
+    "startDate": "Apr, 2025",
+    "endDate": "Now",
+    "experiences": [
+      "Manage event flow planning for each event organized by GDG Bandung, from ceating the rundown to day-of execution.",
+      "Coordinate with MCs, speakers, and committe members to ensure smooth transitions between sessions.",
+      "Direct the event flow in real time to maintain audience engagement and energy."
+    ],
+    "imageSrc": "history/gdg.png"
+  },
+
+  {
     "role": "Student of React JS",
     "organisation": "Lumoshive Academy",
     "startDate": "Sept, 2024",
     "endDate": "Des, 2024",
     "experiences": [
-      "Mempelajari Dasar React JS (JSX, Component, Sate, dan Props",
-      "Project Akhir: Membangun aplikasi web sederhana sebagai implementasi React JS."
+      "Learning the Basics of React JS (JSX, Components, State, and Props)",
+      "Final Project: Building a simple web application as an implementation of React JS."
     ],
     "imageSrc": "history/lumosive.png"
   },
@@ -16,9 +29,9 @@
     "startDate": "Aug, 2024",
     "endDate": "Sep, 2024",
     "experiences": [
-      "Pengembangan Front-end: memmbangun antarmuka (UI) menggunakan HTML, CSS, dan JavaScript.",
-      "Integrasi API: Mengintegrasikan layanan eksternal ke website",
-      "Kolaborasi Team, mengembangkan UI, Front-rnd, hingga Back-end"
+      "Front-end Development: Building user interfaces (UI) using HTML, CSS, and JavaScript.",
+      "API Integration: Integrating external services into the website.",
+      "Team Collaboration: Developing the UI, front-end, and back-end."
     ],
     "imageSrc": "history/luarsekolah.png"
   },
@@ -28,9 +41,9 @@
     "startDate": "feb, 2024",
     "endDate": "Aug, 2024",
     "experiences": [
-      "literasi modul pembelajaran dicoding",
-      "quiz serta pelatihan dasar dasar membuat website",
-      "Membuat website landingpage sederhana"
+      "Literacy of Dicoding learning modules",
+      "Quizzes and foundational training in building websites.",
+      "Creating a simple landing page website."
     ],
     "imageSrc": "history/dicoding.png"
   }
